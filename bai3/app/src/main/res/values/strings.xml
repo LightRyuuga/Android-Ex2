@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tuan3_b3</string>
+    <string name="mission_text">
+        "Team 15:\n"
+        "Ngo Long Thuong: Bai1\n"
+        "Nguyen Viet Truong: Bai2\n"
+        "Doan Tuyen: Bai3\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
